@@ -33,7 +33,7 @@ As métricas ajudam a nortear vários dos principais pontos que regem uma empres
 
 # Principais métricas por setor
 
-- Financeiro
+- <b>Financeiro</b>
 1. Caixa
 2. Margem de lucro dos produtos
 3. Faturamento Bruto
@@ -45,7 +45,7 @@ As métricas ajudam a nortear vários dos principais pontos que regem uma empres
 9. A pagar de fornecedores até 3 meses
 10. A pagar de fornecedores a partir de 3 meses
 
-- Comercial
+- <b>Comercial</b>
 1. Faturamento Lojistas
 2. Número de clientes Lojistas
 3. ROI de campanha Google Ads Lojistas
@@ -61,7 +61,7 @@ As métricas ajudam a nortear vários dos principais pontos que regem uma empres
 13. Faturamento SHOPEE
 14. Faturamento B2W
 
-- Produção
+- <b>Produção</b>
 1. Estoque
 2. Estoque de matérias-primas
 3. Prazo de entregas Ecommerce
@@ -72,11 +72,11 @@ As métricas ajudam a nortear vários dos principais pontos que regem uma empres
 8. Gasto mensal atual Oriento
 9. Gasto mensal atual Madumac
 
-- Recursos Humanos
+- <b>Recursos Humanos</b>
 1. Horários
 2. Funções exercidas
 
-- Tributação
+- <b>Tributação</b>
 1. Valor total em impostos 
 2. Alíquotas de cada CNPJ
 3. Valor pago por cada CNPJ
