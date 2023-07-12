@@ -10,37 +10,76 @@ As ações podem ser definidas para diferentes finalidades, as principais são:
 5. Encerrar um negócio
 
 Antes mesmo de definir as ações, é necessário ter clareza em relação a quais são as métricas mais importantes para cada área da empresa, isso irá ajudar a saber exatamente quais são as prioridades para cada momento e as ações que são de extrema urgência. <br>
-As métricas ajudam a nortear vários dos principais pontos que 
+As métricas ajudam a nortear vários dos principais pontos que regem uma empresa, mas as ações podem ser executadas por outros motivos não necessáriamente matemáticos como por exemplo:
 
-2. Percepção humana
+1. Percepção humana
 - Imagens de marketing ou produtos
 - Modificações de produtos
 - Ambientação da empresa
 
-3. Legislação
+2. Legislação
 - Impostos
-- legislação trabalhista
+- Legislação trabalhista
 
-4. Cultura da empresa. <br><br>
+3. Cultura da empresa.
 - Processos
+- Escalabilidade
 - Atração de talentos
+
+4. Automação
+- Processos
+- Máquinas
+- Sistemas
 
 # Principais métricas por setor
 
-* <b>Financeiro</b> <br>
-Caixa <br>
-Margem de lucro dos produtos <br>
-Faturamento <br>
-Custo de folha salarial frente ao faturamento <br>
-Custo fixo frente ao faturamento <br>
-Custo variável frente ao faturamento <br>
+- Financeiro
+1. Caixa
+2. Margem de lucro dos produtos
+3. Faturamento Bruto
+4. Faturamento Líquido
+5. Parcelamento mensal de Empréstimos bancários
+6. Custo de folha salarial frente ao faturamento
+7. Custo fixo frente ao faturamento
+8. Custo variável frente ao faturamento
+9. A pagar de fornecedores até 3 meses
+10. A pagar de fornecedores a partir de 3 meses
 
-* <b>Comercial</b> <br>
-Faturamento <br>
-Número de clientes <br>
-Número de leads <br>
-ROI de campanha Google ADS <br>
-ROI de campanha Google ADS <br>
+- Comercial
+1. Faturamento Lojistas
+2. Número de clientes Lojistas
+3. ROI de campanha Google Ads Lojistas
+4. Número de leads Lojistas
+5. Faturamento MLJC
+6. ROI de campanha MLSHEYLA
+7. Faturamento MLCHRIS
+8. ROI de campanha MLCHRIS
+9. Faturamento MLANNY
+10. ROI de campanha MLANNY
+11. Faturamento MLSHEYLA
+12. ROI de campanha MLSHEYLA
+13. Faturamento SHOPEE
+14. Faturamento B2W
+
+- Produção
+1. Estoque
+2. Estoque de matérias-primas
+3. Prazo de entregas Ecommerce
+4. Prazo de entregas Lojistas
+5. Custo com envios de serviços
+6. Metas de costura interna
+7. Metas Filigrana
+8. Gasto mensal atual Oriento
+9. Gasto mensal atual Madumac
+
+- Recursos Humanos
+1. Horários
+2. Funções exercidas
+
+- Tributação
+1. Valor total em impostos 
+2. Alíquotas de cada CNPJ
+3. Valor pago por cada CNPJ
 
 # Como definir novas ações?
 
@@ -52,7 +91,7 @@ ROI de campanha Google ADS <br>
   Deve-se Escolher uma pessoa para ser responsável pelo projeto em questão, caso seja necessário que mais pessoas estejam envolvidas definir junto com o responsável quem serão as pessoas que estarão no processo.
 
 3. Acompanhamento das metas:
-  Utilize ferramentas ou encontre métricas que deixe claro como está o andamento da meta ou o que falta para concluí-la
+  Utilize ferramentas ou encontre métricas que deixe claro como está o andamento da meta ou o que falta para concluí-la.
 
 4. Avaliação das metas:
   Concluir as metas é importante, porém identificar os erros que podem ter ocorrido em cada processo pode ser fundamental para a produtividade ou acertividade nos próximos projetos que forem ser executados.
@@ -68,6 +107,3 @@ Resumindo, não que seja uma regra, mas boas ações costumam ter as seguintes c
 3. Atingível
 4. Relevante
 5. Temporizável
-
-
-
